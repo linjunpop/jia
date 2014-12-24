@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["linjunpop@gmail.com"]
   spec.summary       = %q{A ruby gem for generating random Chinese user data.}
   spec.description   = %q{A ruby gem for generating random Chinese user data.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/linjunpop/jia"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
