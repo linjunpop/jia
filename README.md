@@ -2,6 +2,12 @@
 
 A ruby gem for generating random Chinese user data.
 
+[![Dependency Status](http://img.shields.io/gemnasium/linjunpop/jia.svg)](https://gemnasium.com/linjunpop/jia)
+[![Code
+Climate](http://img.shields.io/codeclimate/github/linjunpop/jia.svg)](https://codeclimate.com/github/linjunpop/jia)
+[![Gem Version](http://img.shields.io/gem/v/jia.svg)](https://rubygems.org/gems/jia)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://linjunpop.mit-license.org)
+
 ## Installation
 
 Add this line to your application's Gemfile:
